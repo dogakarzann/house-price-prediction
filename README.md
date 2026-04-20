@@ -141,7 +141,7 @@ jupyter notebook
 | 3 | `03-features_engineering.ipynb` | `data/df_step3.pkl` |
 | 4 | `04-modeling.ipynb` | `submission.csv` |
 
-Download `train.csv` and `test.csv` from the [Kaggle competition page](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) and place them in the project root before running.
+
 
 ---
 
